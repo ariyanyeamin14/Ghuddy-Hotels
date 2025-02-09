@@ -1,0 +1,97 @@
+[
+    {
+        "label": "Apartment",
+        "value": "apartment",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/APARTMENT.svg"
+    },
+    {
+        "label": "Boat",
+        "value": "boat",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/BOAT.svg"
+    },
+    {
+        "label": "Bungalow",
+        "value": "bungalow",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/BUNGALOW.svg"
+    },
+    {
+        "label": "Camping",
+        "value": "camping",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/CAMPING.svg"
+    },
+    {
+        "label": "Chalet",
+        "value": "chalet",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/CHALET.svg"
+    },
+    {
+        "label": "Cruise",
+        "value": "cruise",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/CRUISE.svg"
+    },
+    {
+        "label": "Farm Stay",
+        "value": "farmStay",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/FARM_STAY.svg"
+    },
+    {
+        "label": "Guest House",
+        "value": "guestHouse",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/GUEST_HOUSE.svg"
+    },
+    {
+        "label": "Holiday Home",
+        "value": "holidayHome",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/HOLIDAY_HOME.svg"
+    },
+    {
+        "label": "Homestay",
+        "value": "homestay",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/HOMESTAY.svg"
+    },
+    {
+        "label": "Hostel",
+        "value": "hostel",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/HOSTEL.svg"
+    },
+    {
+        "label": "Hotel",
+        "value": "hotel",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/HOTEL.svg"
+    },
+    {
+        "label": "Inn",
+        "value": "inn",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/INN.svg"
+    },
+    {
+        "label": "Lodge",
+        "value": "lodge",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/LODGE.svg"
+    },
+    {
+        "label": "Motel",
+        "value": "motel",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/MOTEL.svg"
+    },
+    {
+        "label": "Resort",
+        "value": "resort",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/RESORT.svg"
+    },
+    {
+        "label": "Ship",
+        "value": "ship",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/SHIP.svg"
+    },
+    {
+        "label": "Tented",
+        "value": "tented",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/TENTED.svg"
+    },
+    {
+        "label": "Villa",
+        "value": "villa",
+        "iconUrl": "https://ghuddy-live-attachments.s3.ap-southeast-1.amazonaws.com/icons/rental-type/VILLA.svg"
+    }
+]
