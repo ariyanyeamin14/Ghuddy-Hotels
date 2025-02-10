@@ -35,7 +35,7 @@ const DefaultCatalogs = () => {
                         360: {
                             slidesPerView: 1,
                         },
-                        924: {
+                        768: {
                             slidesPerView: 2.5,
                         },
                         1424: {
@@ -53,7 +53,7 @@ const DefaultCatalogs = () => {
                                     </CatalogCard>
                                 </SwiperSlide>))
                             :
-                            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10'>
+                            <div className='grid grid-cols-1 md:grid-cols-3 2xl:grid-cols-4 gap-10'>
                                 <Skeleton></Skeleton>
                                 <Skeleton></Skeleton>
                                 <Skeleton></Skeleton>
