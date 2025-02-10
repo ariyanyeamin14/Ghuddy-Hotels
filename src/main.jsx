@@ -6,6 +6,12 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Home from './Home/Home/Home';
+import Catalogs from './Home/Catalogs/Catalogs';
+import {
+  QueryClient,
+  QueryClientProvider,
+} from '@tanstack/react-query'
+import DefaultCatalogs from './Home/DefaultCatalogs/DefaultCatalogs';
 
 const router = createBrowserRouter([
   {
@@ -13,14 +19,22 @@ const router = createBrowserRouter([
     element: <Home></Home>,
     children: [
       {
-        
+        path: '/',
+        element: <DefaultCatalogs></DefaultCatalogs>
+      },
+      {
+        path: "/category/:category",
+        element: <Catalogs></Catalogs>
       }
     ]
   }
 ]);
+const queryClient = new QueryClient()
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <RouterProvider router={router} />
+    <QueryClientProvider client={queryClient}>
+      <RouterProvider router={router} />
+    </QueryClientProvider>
   </StrictMode>,
 )
